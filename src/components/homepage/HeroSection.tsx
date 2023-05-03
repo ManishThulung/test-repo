@@ -64,12 +64,12 @@ const HeroSection = () => {
               <Image
                 src={cal}
                 alt="Banner"
-                width="560"
-                height="640"
+                width="760"
+                height="540"
                 className="rounded-md"
                 unoptimized={true}
                 priority
-                style={{ width: "600px", height: "400px" }}
+                style={{ width: "890px", height: "450px" }}
               />
 
               {/* <div className="absolute bottom-[-75px] right-[-95px] hidden xl:block">
